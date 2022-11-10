@@ -1,1 +1,1 @@
-# Netology
+# Python
