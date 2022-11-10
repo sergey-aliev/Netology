@@ -1,1 +1,3 @@
 My thirst work with git
+
+some big chenges
